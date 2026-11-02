@@ -1,0 +1,401 @@
+Date,Campaign_ID,Campaign_Name,Platform,Objective,Audience_Segment,Impressions,Clicks,Spend_BDT,Conversions,Revenue_BDT
+2025-01-01,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Young Professionals,56821,2030,10788.0,129,133089.25
+2025-01-02,YOU-C01,New Year Sale,YouTube,Sales,Young Professionals,44978,921,4639.81,27,28432.43
+2025-01-03,FAC-C03,Winter Collection,Facebook,Sales,Young Professionals,98797,3458,18514.75,173,176204.38
+2025-01-04,YOU-C02,Brand Awareness,YouTube,Awareness,Students,62933,1244,6973.39,37,32742.12
+2025-01-05,YOU-C03,Winter Collection,YouTube,Sales,Young Professionals,55391,1133,7410.27,25,26113.14
+2025-01-06,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Online Shoppers,90382,5992,23769.21,488,845672.87
+2025-01-08,GOO-C04,Website Traffic,Google Ads,Traffic,Young Professionals,60417,3915,17321.0,345,568208.3
+2025-01-09,INS-C01,New Year Sale,Instagram,Sales,Families,92189,4134,21344.76,246,400926.64
+2025-01-10,INS-C03,Winter Collection,Instagram,Sales,Online Shoppers,44114,1985,10167.29,101,144476.81
+2025-01-11,GOO-C01,New Year Sale,Google Ads,Sales,Students,17804,1148,5869.58,100,183297.48
+2025-01-11,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Students,40204,807,4204.39,21,27104.51
+2025-01-12,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Young Professionals,36961,756,4657.48,21,21418.91
+2025-01-13,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Families,39625,778,4093.54,25,31406.8
+2025-01-13,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Online Shoppers,71472,4690,21650.11,360,684888.67
+2025-01-14,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Online Shoppers,82533,1661,10609.5,47,43464.93
+2025-01-16,GOO-C02,Brand Awareness,Google Ads,Awareness,Online Shoppers,52972,3401,15127.54,272,405632.52
+2025-01-17,GOO-C02,Brand Awareness,Google Ads,Awareness,Families,74293,4767,21277.33,406,794160.87
+2025-01-17,FAC-C02,Brand Awareness,Facebook,Awareness,Families,54033,1857,10411.31,93,98315.34
+2025-01-17,INS-C01,New Year Sale,Instagram,Sales,Young Professionals,84292,3800,17171.14,246,279660.32
+2025-01-22,GOO-C01,New Year Sale,Google Ads,Sales,Families,52089,3317,14437.6,290,593424.25
+2025-01-22,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Students,85262,2919,14212.99,149,186722.28
+2025-01-22,YOU-C04,Website Traffic,YouTube,Traffic,Students,77311,1584,8649.0,42,51963.36
+2025-01-23,YOU-C02,Brand Awareness,YouTube,Awareness,Students,29511,589,3011.17,15,14268.34
+2025-01-24,INS-C02,Brand Awareness,Instagram,Awareness,Young Professionals,58046,2616,13822.21,147,167507.89
+2025-01-24,INS-C01,New Year Sale,Instagram,Sales,Young Professionals,50923,2250,11187.96,158,186754.03
+2025-01-25,YOU-C01,New Year Sale,YouTube,Sales,Families,37161,755,4569.02,18,19807.79
+2025-01-26,GOO-C01,New Year Sale,Google Ads,Sales,Families,75234,4868,22416.04,429,728853.72
+2025-01-27,GOO-C01,New Year Sale,Google Ads,Sales,Young Professionals,39718,2588,11227.88,203,323981.52
+2025-01-28,FAC-C04,Website Traffic,Facebook,Traffic,Online Shoppers,69133,2437,11452.91,141,177450.04
+2025-01-29,INS-C03,Winter Collection,Instagram,Sales,Online Shoppers,16230,751,4072.72,37,47876.75
+2025-01-31,FAC-C01,New Year Sale,Facebook,Sales,Young Professionals,69573,2432,13702.9,123,127938.08
+2025-01-31,GOO-C04,Website Traffic,Google Ads,Traffic,Families,20095,1355,6067.28,122,216282.1
+2025-02-01,GOO-C01,New Year Sale,Google Ads,Sales,Students,78049,5075,23993.83,435,937571.25
+2025-02-02,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Online Shoppers,36740,709,4483.97,24,23260.28
+2025-02-03,INS-C04,Website Traffic,Instagram,Traffic,Online Shoppers,27790,1241,6495.59,58,70649.86
+2025-02-03,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Online Shoppers,15764,289,1802.17,10,11699.62
+2025-02-03,FAC-C01,New Year Sale,Facebook,Sales,Online Shoppers,54459,1933,8833.9,99,139001.71
+2025-02-03,GOO-C04,Website Traffic,Google Ads,Traffic,Online Shoppers,45764,2983,14060.51,264,451769.84
+2025-02-05,INS-C03,Winter Collection,Instagram,Sales,Young Professionals,68913,3119,14849.39,191,281641.64
+2025-02-06,GOO-C02,Brand Awareness,Google Ads,Awareness,Students,55834,3711,17326.76,327,569118.19
+2025-02-06,YOU-C03,Winter Collection,YouTube,Sales,Online Shoppers,37226,712,4404.96,14,15688.37
+2025-02-06,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Online Shoppers,89427,1832,10180.55,47,51606.76
+2025-02-07,INS-C03,Winter Collection,Instagram,Sales,Families,17773,787,4009.48,52,61968.89
+2025-02-10,GOO-C03,Winter Collection,Google Ads,Sales,Students,78828,5096,27155.0,470,937398.7
+2025-02-11,YOU-C03,Winter Collection,YouTube,Sales,Online Shoppers,81957,1688,9119.91,40,38190.95
+2025-02-11,INS-C05,Retargeting Campaign,Instagram,Retargeting,Young Professionals,24833,1092,5880.5,62,72835.2
+2025-02-11,FAC-C04,Website Traffic,Facebook,Traffic,Young Professionals,39799,1376,7231.33,77,77800.05
+2025-02-12,GOO-C01,New Year Sale,Google Ads,Sales,Young Professionals,26984,1716,7649.22,165,258627.77
+2025-02-13,YOU-C02,Brand Awareness,YouTube,Awareness,Families,32082,626,3346.52,13,15830.14
+2025-02-14,INS-C05,Retargeting Campaign,Instagram,Retargeting,Online Shoppers,58497,2641,14582.76,164,220604.07
+2025-02-15,INS-C04,Website Traffic,Instagram,Traffic,Young Professionals,95396,4343,23793.27,257,342286.35
+2025-02-15,FAC-C03,Winter Collection,Facebook,Sales,Families,44499,1593,7960.25,104,118627.86
+2025-02-15,YOU-C04,Website Traffic,YouTube,Traffic,Young Professionals,78394,1633,8546.06,49,57092.91
+2025-02-16,INS-C01,New Year Sale,Instagram,Sales,Online Shoppers,64303,2812,15617.11,166,202605.58
+2025-02-16,GOO-C01,New Year Sale,Google Ads,Sales,Young Professionals,64930,4313,19168.34,332,575855.76
+2025-02-16,YOU-C04,Website Traffic,YouTube,Traffic,Students,72158,1438,9922.97,32,37621.54
+2025-02-16,FAC-C01,New Year Sale,Facebook,Sales,Young Professionals,29312,1006,4930.12,60,66055.5
+2025-02-18,GOO-C01,New Year Sale,Google Ads,Sales,Young Professionals,72001,4760,21952.08,425,802289.78
+2025-02-18,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Families,81004,1593,8939.19,37,42654.11
+2025-02-19,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Families,59527,1195,7157.11,35,34234.76
+2025-02-19,INS-C03,Winter Collection,Instagram,Sales,Families,66398,2974,14705.07,168,208323.83
+2025-02-22,FAC-C04,Website Traffic,Facebook,Traffic,Young Professionals,50474,1674,10167.37,76,81536.34
+2025-02-22,GOO-C03,Winter Collection,Google Ads,Sales,Families,35142,2272,9998.36,200,300921.3
+2025-02-22,YOU-C03,Winter Collection,YouTube,Sales,Students,39861,758,5159.39,24,28492.89
+2025-02-23,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Young Professionals,39766,1454,6407.28,83,81567.38
+2025-02-23,FAC-C04,Website Traffic,Facebook,Traffic,Young Professionals,50407,1720,8642.99,98,127837.75
+2025-02-24,YOU-C03,Winter Collection,YouTube,Sales,Families,74629,1480,8042.93,34,39051.69
+2025-02-25,INS-C05,Retargeting Campaign,Instagram,Retargeting,Students,37940,1698,9355.66,88,143991.11
+2025-02-26,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Online Shoppers,16072,334,1851.51,6,6207.56
+2025-02-28,FAC-C03,Winter Collection,Facebook,Sales,Families,25569,875,5094.72,40,45547.42
+2025-02-28,INS-C01,New Year Sale,Instagram,Sales,Young Professionals,35257,1556,8064.36,94,125963.7
+2025-02-28,GOO-C03,Winter Collection,Google Ads,Sales,Online Shoppers,77367,5063,23468.93,434,717725.46
+2025-03-01,GOO-C01,New Year Sale,Google Ads,Sales,Online Shoppers,99126,6454,32707.15,537,890510.05
+2025-03-01,FAC-C03,Winter Collection,Facebook,Sales,Students,15150,512,2350.8,33,34876.23
+2025-03-01,FAC-C02,Brand Awareness,Facebook,Awareness,Students,72045,2630,13108.42,148,178610.39
+2025-03-03,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Young Professionals,24647,829,4834.69,54,67411.02
+2025-03-03,YOU-C01,New Year Sale,YouTube,Sales,Young Professionals,87481,1700,9026.79,42,41123.49
+2025-03-05,INS-C03,Winter Collection,Instagram,Sales,Students,50260,2252,10742.05,119,187189.73
+2025-03-05,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Families,22974,1540,7691.65,121,245613.88
+2025-03-06,GOO-C02,Brand Awareness,Google Ads,Awareness,Young Professionals,36198,2364,10610.68,219,462019.04
+2025-03-06,FAC-C02,Brand Awareness,Facebook,Awareness,Families,20235,726,3911.12,43,58133.98
+2025-03-06,YOU-C01,New Year Sale,YouTube,Sales,Online Shoppers,55695,1123,7629.76,30,29663.79
+2025-03-06,GOO-C03,Winter Collection,Google Ads,Sales,Online Shoppers,16044,1003,4226.98,85,180530.9
+2025-03-07,INS-C04,Website Traffic,Instagram,Traffic,Families,92121,4158,20982.77,235,376920.41
+2025-03-07,GOO-C04,Website Traffic,Google Ads,Traffic,Students,34723,2324,9105.24,189,307912.24
+2025-03-08,GOO-C01,New Year Sale,Google Ads,Sales,Families,64180,4292,21689.74,374,671451.45
+2025-03-09,YOU-C04,Website Traffic,YouTube,Traffic,Families,72993,1498,7850.76,36,46439.63
+2025-03-09,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Students,75672,1537,9144.45,32,40933.34
+2025-03-10,YOU-C04,Website Traffic,YouTube,Traffic,Young Professionals,82360,1633,8635.89,38,45079.07
+2025-03-10,YOU-C03,Winter Collection,YouTube,Sales,Online Shoppers,70569,1400,7445.85,33,38455.47
+2025-03-10,INS-C03,Winter Collection,Instagram,Sales,Online Shoppers,81269,3614,15739.61,235,369922.72
+2025-03-11,INS-C01,New Year Sale,Instagram,Sales,Young Professionals,68563,3126,15223.46,205,258117.06
+2025-03-11,INS-C04,Website Traffic,Instagram,Traffic,Students,42473,1891,10049.86,121,156786.26
+2025-03-12,INS-C02,Brand Awareness,Instagram,Awareness,Students,99284,4384,21588.29,303,411436.15
+2025-03-12,GOO-C04,Website Traffic,Google Ads,Traffic,Students,79993,5175,21049.1,458,854828.59
+2025-03-12,FAC-C02,Brand Awareness,Facebook,Awareness,Students,89767,3027,14477.38,151,157953.37
+2025-03-12,INS-C04,Website Traffic,Instagram,Traffic,Online Shoppers,79370,3638,18366.88,214,291781.61
+2025-03-13,FAC-C01,New Year Sale,Facebook,Sales,Online Shoppers,52813,1816,10077.48,99,109883.66
+2025-03-14,GOO-C04,Website Traffic,Google Ads,Traffic,Students,72775,4827,24207.1,383,781925.81
+2025-03-16,INS-C03,Winter Collection,Instagram,Sales,Students,21589,977,5020.49,50,60574.97
+2025-03-16,GOO-C01,New Year Sale,Google Ads,Sales,Young Professionals,55495,3662,15802.81,299,457949.21
+2025-03-17,INS-C03,Winter Collection,Instagram,Sales,Students,65495,2987,15931.11,162,226474.99
+2025-03-18,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Online Shoppers,68950,4480,21429.14,386,749473.8
+2025-03-19,GOO-C02,Brand Awareness,Google Ads,Awareness,Families,58754,3862,18426.44,346,525311.12
+2025-03-20,GOO-C03,Winter Collection,Google Ads,Sales,Online Shoppers,48337,3134,14512.76,278,430704.63
+2025-03-20,INS-C05,Retargeting Campaign,Instagram,Retargeting,Students,36815,1651,6950.45,103,170647.16
+2025-03-23,GOO-C02,Brand Awareness,Google Ads,Awareness,Young Professionals,13175,793,3939.77,58,89434.84
+2025-03-25,FAC-C04,Website Traffic,Facebook,Traffic,Students,10424,338,2149.63,18,21297.37
+2025-03-27,FAC-C03,Winter Collection,Facebook,Sales,Students,35552,1243,7161.59,66,64278.7
+2025-03-29,YOU-C03,Winter Collection,YouTube,Sales,Families,94141,1861,10545.28,34,31408.66
+2025-03-30,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Online Shoppers,48967,1636,8142.6,92,91213.82
+2025-03-30,GOO-C02,Brand Awareness,Google Ads,Awareness,Students,47199,3054,13640.77,253,460945.17
+2025-03-31,YOU-C02,Brand Awareness,YouTube,Awareness,Young Professionals,10673,201,1315.26,2,2361.92
+2025-04-01,YOU-C04,Website Traffic,YouTube,Traffic,Students,38089,817,4865.39,16,18309.67
+2025-04-02,FAC-C02,Brand Awareness,Facebook,Awareness,Students,58286,2041,10227.92,110,108200.62
+2025-04-02,INS-C02,Brand Awareness,Instagram,Awareness,Families,83728,3733,19814.54,216,302905.44
+2025-04-03,YOU-C01,New Year Sale,YouTube,Sales,Young Professionals,69867,1326,8412.07,37,48003.96
+2025-04-05,INS-C05,Retargeting Campaign,Instagram,Retargeting,Online Shoppers,65281,2848,15481.9,167,199037.99
+2025-04-08,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Online Shoppers,14490,293,1741.92,5,4621.79
+2025-04-09,YOU-C04,Website Traffic,YouTube,Traffic,Online Shoppers,76157,1532,9408.97,42,43499.31
+2025-04-10,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Students,74738,2656,13779.7,144,166519.76
+2025-04-10,GOO-C04,Website Traffic,Google Ads,Traffic,Students,61691,4020,15779.05,348,512959.04
+2025-04-10,INS-C04,Website Traffic,Instagram,Traffic,Students,56759,2580,10864.27,162,235233.03
+2025-04-11,YOU-C01,New Year Sale,YouTube,Sales,Students,48556,958,4957.44,30,30343.62
+2025-04-12,YOU-C02,Brand Awareness,YouTube,Awareness,Online Shoppers,29976,608,3795.51,19,22096.88
+2025-04-12,GOO-C01,New Year Sale,Google Ads,Sales,Students,39361,2605,13245.81,217,390632.76
+2025-04-13,FAC-C02,Brand Awareness,Facebook,Awareness,Families,43049,1530,8845.65,81,97228.82
+2025-04-13,YOU-C01,New Year Sale,YouTube,Sales,Online Shoppers,83477,1620,10463.8,47,51990.52
+2025-04-16,INS-C03,Winter Collection,Instagram,Sales,Students,42799,1902,10554.12,111,127124.33
+2025-04-16,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Students,40447,2598,13805.32,208,359744.2
+2025-04-17,GOO-C04,Website Traffic,Google Ads,Traffic,Families,58546,3835,17709.42,323,480788.57
+2025-04-18,INS-C05,Retargeting Campaign,Instagram,Retargeting,Families,70514,3218,16341.35,184,259979.25
+2025-04-19,FAC-C02,Brand Awareness,Facebook,Awareness,Students,27534,931,5513.69,53,72532.79
+2025-04-20,GOO-C04,Website Traffic,Google Ads,Traffic,Families,37552,2572,11452.35,223,416885.23
+2025-04-21,FAC-C02,Brand Awareness,Facebook,Awareness,Families,63770,2245,12255.87,108,108060.13
+2025-04-21,INS-C05,Retargeting Campaign,Instagram,Retargeting,Families,49831,2253,10796.84,144,212925.02
+2025-04-21,INS-C02,Brand Awareness,Instagram,Awareness,Young Professionals,68703,3063,16579.84,168,238863.64
+2025-04-22,FAC-C04,Website Traffic,Facebook,Traffic,Young Professionals,11974,416,1848.07,19,26698.44
+2025-04-22,INS-C01,New Year Sale,Instagram,Sales,Students,39978,1737,8873.65,112,159093.55
+2025-04-25,YOU-C03,Winter Collection,YouTube,Sales,Young Professionals,57549,1153,6545.73,22,21631.63
+2025-04-26,YOU-C04,Website Traffic,YouTube,Traffic,Young Professionals,89148,1753,10662.38,40,35856.66
+2025-04-26,INS-C02,Brand Awareness,Instagram,Awareness,Families,85899,4002,17425.04,248,367312.49
+2025-04-26,GOO-C01,New Year Sale,Google Ads,Sales,Students,10991,680,3003.3,51,97674.69
+2025-04-28,YOU-C03,Winter Collection,YouTube,Sales,Young Professionals,16393,342,1936.74,10,8871.53
+2025-04-29,GOO-C04,Website Traffic,Google Ads,Traffic,Online Shoppers,29927,1912,8519.64,176,371535.99
+2025-04-30,INS-C01,New Year Sale,Instagram,Sales,Online Shoppers,65253,2968,16045.99,169,260223.91
+2025-04-30,YOU-C02,Brand Awareness,YouTube,Awareness,Online Shoppers,68485,1369,8053.01,28,30039.1
+2025-05-01,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Young Professionals,30403,2024,8759.97,165,311987.72
+2025-05-01,YOU-C01,New Year Sale,YouTube,Sales,Students,46374,943,5323.28,28,29695.41
+2025-05-01,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Online Shoppers,58258,2092,9840.75,106,135525.04
+2025-05-02,GOO-C03,Winter Collection,Google Ads,Sales,Families,77637,5039,24076.75,446,884547.61
+2025-05-04,INS-C01,New Year Sale,Instagram,Sales,Families,69180,3039,12947.2,184,308436.69
+2025-05-04,YOU-C02,Brand Awareness,YouTube,Awareness,Families,60281,1190,8152.36,29,29192.44
+2025-05-05,INS-C05,Retargeting Campaign,Instagram,Retargeting,Students,81708,3682,18721.16,256,354663.0
+2025-05-09,FAC-C04,Website Traffic,Facebook,Traffic,Online Shoppers,50003,1722,9473.89,94,122422.21
+2025-05-09,INS-C01,New Year Sale,Instagram,Sales,Families,57163,2575,13603.38,152,187843.97
+2025-05-12,INS-C04,Website Traffic,Instagram,Traffic,Online Shoppers,68337,3075,15767.19,161,240894.37
+2025-05-14,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Families,40834,2670,13675.25,217,410934.94
+2025-05-14,INS-C01,New Year Sale,Instagram,Sales,Families,76867,3527,18696.18,217,314035.37
+2025-05-15,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Students,51634,3409,17054.59,286,441869.79
+2025-05-16,GOO-C01,New Year Sale,Google Ads,Sales,Families,52149,3249,13744.75,278,400433.72
+2025-05-21,INS-C01,New Year Sale,Instagram,Sales,Online Shoppers,23785,1051,5389.2,67,92778.85
+2025-05-22,INS-C05,Retargeting Campaign,Instagram,Retargeting,Online Shoppers,76409,3472,14483.37,206,254714.66
+2025-05-26,GOO-C04,Website Traffic,Google Ads,Traffic,Young Professionals,48517,3171,16179.9,281,526460.8
+2025-05-26,INS-C02,Brand Awareness,Instagram,Awareness,Online Shoppers,68819,3120,13872.03,205,304917.28
+2025-05-27,GOO-C03,Winter Collection,Google Ads,Sales,Families,81431,5240,24883.75,468,716566.94
+2025-05-29,INS-C03,Winter Collection,Instagram,Sales,Families,19413,821,4372.05,49,55006.74
+2025-06-01,FAC-C01,New Year Sale,Facebook,Sales,Young Professionals,17888,587,2993.68,41,58433.39
+2025-06-02,FAC-C04,Website Traffic,Facebook,Traffic,Young Professionals,72172,2507,13782.24,132,166875.65
+2025-06-02,INS-C03,Winter Collection,Instagram,Sales,Young Professionals,15244,658,3821.94,34,56426.56
+2025-06-02,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Families,60584,1197,6765.2,29,27284.54
+2025-06-03,FAC-C01,New Year Sale,Facebook,Sales,Young Professionals,39841,1415,8023.69,66,67803.09
+2025-06-05,INS-C05,Retargeting Campaign,Instagram,Retargeting,Online Shoppers,16393,722,4125.77,51,82353.61
+2025-06-05,YOU-C04,Website Traffic,YouTube,Traffic,Young Professionals,17249,342,1776.07,6,6741.06
+2025-06-07,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Online Shoppers,24894,821,4740.49,47,49021.62
+2025-06-08,FAC-C02,Brand Awareness,Facebook,Awareness,Young Professionals,10636,397,1657.15,26,36502.03
+2025-06-09,YOU-C04,Website Traffic,YouTube,Traffic,Online Shoppers,78536,1566,8187.58,30,27845.23
+2025-06-10,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Families,92099,5872,28783.62,511,989887.12
+2025-06-10,FAC-C04,Website Traffic,Facebook,Traffic,Young Professionals,19271,668,3608.79,33,37117.75
+2025-06-11,INS-C03,Winter Collection,Instagram,Sales,Online Shoppers,37986,1704,7493.88,89,126339.32
+2025-06-12,YOU-C02,Brand Awareness,YouTube,Awareness,Young Professionals,98803,1897,11572.1,45,47202.25
+2025-06-13,INS-C01,New Year Sale,Instagram,Sales,Young Professionals,46244,2091,10684.88,127,188860.42
+2025-06-14,INS-C03,Winter Collection,Instagram,Sales,Young Professionals,43284,1955,10159.86,117,156533.62
+2025-06-14,FAC-C01,New Year Sale,Facebook,Sales,Families,28212,977,5472.0,48,62656.43
+2025-06-15,FAC-C03,Winter Collection,Facebook,Sales,Students,10488,348,1739.77,23,31457.47
+2025-06-15,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Students,21906,386,3022.56,8,9569.79
+2025-06-18,FAC-C03,Winter Collection,Facebook,Sales,Families,49808,1700,10302.28,100,138201.6
+2025-06-19,GOO-C02,Brand Awareness,Google Ads,Awareness,Families,75046,4799,20317.4,384,613669.37
+2025-06-21,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Online Shoppers,81829,2856,16846.8,155,176859.56
+2025-06-23,GOO-C03,Winter Collection,Google Ads,Sales,Students,33710,2266,8774.59,196,366609.44
+2025-06-25,YOU-C02,Brand Awareness,YouTube,Awareness,Young Professionals,18421,386,2026.05,10,8906.61
+2025-06-25,INS-C01,New Year Sale,Instagram,Sales,Young Professionals,45480,2050,9763.37,123,182330.31
+2025-06-26,GOO-C04,Website Traffic,Google Ads,Traffic,Online Shoppers,98933,6276,28118.53,544,987705.02
+2025-06-27,FAC-C04,Website Traffic,Facebook,Traffic,Young Professionals,60442,2023,10035.43,103,114824.02
+2025-06-28,INS-C04,Website Traffic,Instagram,Traffic,Online Shoppers,51484,2325,11011.7,146,209973.36
+2025-06-28,FAC-C04,Website Traffic,Facebook,Traffic,Online Shoppers,48240,1723,8675.17,91,93229.15
+2025-06-28,FAC-C03,Winter Collection,Facebook,Sales,Young Professionals,38300,1346,6440.26,86,96352.89
+2025-06-29,YOU-C03,Winter Collection,YouTube,Sales,Families,67618,1321,8333.21,29,26933.17
+2025-06-30,FAC-C03,Winter Collection,Facebook,Sales,Families,90853,3200,18493.21,179,209464.71
+2025-07-02,GOO-C02,Brand Awareness,Google Ads,Awareness,Young Professionals,51422,3298,17278.21,300,506012.46
+2025-07-02,FAC-C02,Brand Awareness,Facebook,Awareness,Families,23338,816,4559.71,53,51333.77
+2025-07-02,YOU-C02,Brand Awareness,YouTube,Awareness,Families,94723,1896,11767.98,40,45941.1
+2025-07-04,YOU-C03,Winter Collection,YouTube,Sales,Families,52774,1025,5901.3,22,20929.9
+2025-07-05,FAC-C01,New Year Sale,Facebook,Sales,Online Shoppers,23708,859,4434.23,53,60084.51
+2025-07-06,YOU-C02,Brand Awareness,YouTube,Awareness,Students,94559,1933,11055.78,54,60000.73
+2025-07-06,FAC-C03,Winter Collection,Facebook,Sales,Students,31674,1069,5968.6,52,50822.62
+2025-07-07,GOO-C03,Winter Collection,Google Ads,Sales,Young Professionals,41674,2745,14264.15,241,483204.97
+2025-07-07,FAC-C01,New Year Sale,Facebook,Sales,Young Professionals,19696,729,3408.0,36,48898.77
+2025-07-07,FAC-C03,Winter Collection,Facebook,Sales,Young Professionals,62943,2291,10634.18,125,147512.88
+2025-07-08,GOO-C03,Winter Collection,Google Ads,Sales,Young Professionals,19373,1280,6592.14,95,158326.67
+2025-07-08,INS-C03,Winter Collection,Instagram,Sales,Online Shoppers,19307,852,4023.19,48,79259.59
+2025-07-09,INS-C02,Brand Awareness,Instagram,Awareness,Young Professionals,82125,3665,15878.24,201,242400.83
+2025-07-09,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Young Professionals,54355,3590,15927.35,268,494049.75
+2025-07-11,INS-C02,Brand Awareness,Instagram,Awareness,Families,99875,4508,24826.07,271,452369.42
+2025-07-12,FAC-C02,Brand Awareness,Facebook,Awareness,Young Professionals,17278,601,2666.73,32,39247.84
+2025-07-12,GOO-C01,New Year Sale,Google Ads,Sales,Students,49583,3339,15085.9,286,527315.28
+2025-07-13,INS-C04,Website Traffic,Instagram,Traffic,Families,59695,2675,14503.33,151,253242.34
+2025-07-13,YOU-C04,Website Traffic,YouTube,Traffic,Families,60667,1265,6942.69,29,35752.33
+2025-07-13,GOO-C03,Winter Collection,Google Ads,Sales,Young Professionals,97084,6287,31905.73,560,1041934.18
+2025-07-18,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Young Professionals,87649,3009,15451.79,176,234903.49
+2025-07-18,FAC-C03,Winter Collection,Facebook,Sales,Young Professionals,73862,2600,13129.88,129,172390.29
+2025-07-19,INS-C01,New Year Sale,Instagram,Sales,Online Shoppers,34998,1579,7390.81,88,134953.81
+2025-07-20,YOU-C01,New Year Sale,YouTube,Sales,Families,27802,565,3017.49,14,15582.49
+2025-07-21,INS-C05,Retargeting Campaign,Instagram,Retargeting,Families,90781,4034,19202.17,238,291728.12
+2025-07-22,FAC-C03,Winter Collection,Facebook,Sales,Young Professionals,73892,2703,11474.46,137,189661.42
+2025-07-23,INS-C03,Winter Collection,Instagram,Sales,Young Professionals,28277,1216,5984.04,70,100551.05
+2025-07-26,INS-C02,Brand Awareness,Instagram,Awareness,Young Professionals,68166,2992,16956.0,186,214516.13
+2025-07-28,INS-C01,New Year Sale,Instagram,Sales,Online Shoppers,41936,1883,8110.45,113,180082.03
+2025-07-28,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Families,85709,3002,16275.79,163,174338.5
+2025-07-29,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Young Professionals,11483,686,2940.98,66,119262.59
+2025-07-29,FAC-C04,Website Traffic,Facebook,Traffic,Online Shoppers,31029,1052,5419.93,59,82004.38
+2025-07-29,GOO-C02,Brand Awareness,Google Ads,Awareness,Families,67435,4310,22348.5,344,612381.04
+2025-07-31,GOO-C02,Brand Awareness,Google Ads,Awareness,Young Professionals,47364,2975,14294.76,242,495317.62
+2025-07-31,GOO-C03,Winter Collection,Google Ads,Sales,Families,41965,2748,11657.78,216,420723.97
+2025-08-02,FAC-C03,Winter Collection,Facebook,Sales,Online Shoppers,37423,1307,6914.59,79,87862.19
+2025-08-03,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Families,96540,3383,18594.45,183,252835.65
+2025-08-04,INS-C05,Retargeting Campaign,Instagram,Retargeting,Students,93696,4201,18825.56,258,421505.31
+2025-08-04,YOU-C03,Winter Collection,YouTube,Sales,Young Professionals,45862,946,5118.64,19,23906.93
+2025-08-04,YOU-C02,Brand Awareness,YouTube,Awareness,Young Professionals,93812,1805,12837.67,47,42551.19
+2025-08-05,GOO-C02,Brand Awareness,Google Ads,Awareness,Students,34369,2319,10128.44,205,356358.62
+2025-08-05,INS-C02,Brand Awareness,Instagram,Awareness,Students,53757,2412,11012.98,156,220314.8
+2025-08-06,YOU-C02,Brand Awareness,YouTube,Awareness,Young Professionals,38595,756,4506.97,14,15750.71
+2025-08-07,FAC-C03,Winter Collection,Facebook,Sales,Families,73180,2584,13366.6,137,159890.06
+2025-08-08,YOU-C02,Brand Awareness,YouTube,Awareness,Families,23948,456,3053.83,6,7918.39
+2025-08-08,FAC-C02,Brand Awareness,Facebook,Awareness,Families,93476,3340,14926.5,178,250130.94
+2025-08-08,GOO-C02,Brand Awareness,Google Ads,Awareness,Families,39627,2718,11502.35,243,384944.09
+2025-08-09,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Students,18721,391,2386.49,9,11093.34
+2025-08-10,GOO-C02,Brand Awareness,Google Ads,Awareness,Online Shoppers,18268,1158,5447.19,110,235861.22
+2025-08-11,FAC-C02,Brand Awareness,Facebook,Awareness,Online Shoppers,92374,3226,14238.71,180,177586.16
+2025-08-12,INS-C05,Retargeting Campaign,Instagram,Retargeting,Students,25552,1155,5942.54,82,136978.77
+2025-08-13,YOU-C04,Website Traffic,YouTube,Traffic,Online Shoppers,55651,1174,6024.55,29,26256.16
+2025-08-13,INS-C04,Website Traffic,Instagram,Traffic,Young Professionals,93701,4219,23141.16,255,398619.27
+2025-08-13,INS-C02,Brand Awareness,Instagram,Awareness,Online Shoppers,38327,1732,7704.12,105,170197.28
+2025-08-13,INS-C05,Retargeting Campaign,Instagram,Retargeting,Young Professionals,47265,2134,11321.86,138,224699.71
+2025-08-15,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Families,40052,827,4575.74,21,26073.18
+2025-08-16,FAC-C01,New Year Sale,Facebook,Sales,Online Shoppers,12044,398,1947.62,21,25210.53
+2025-08-16,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Online Shoppers,44115,1541,8903.05,73,100409.66
+2025-08-17,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Students,43671,852,5705.13,23,26207.0
+2025-08-20,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Young Professionals,26050,532,2966.87,11,13039.18
+2025-08-22,FAC-C04,Website Traffic,Facebook,Traffic,Families,46613,1570,7983.72,88,120150.79
+2025-08-24,YOU-C03,Winter Collection,YouTube,Sales,Families,10411,203,1157.08,2,1962.49
+2025-08-26,INS-C03,Winter Collection,Instagram,Sales,Online Shoppers,47341,2079,10193.26,140,190596.39
+2025-08-27,INS-C04,Website Traffic,Instagram,Traffic,Young Professionals,73453,3259,17713.69,203,254728.81
+2025-08-27,YOU-C02,Brand Awareness,YouTube,Awareness,Students,71123,1354,9334.94,28,33711.88
+2025-08-28,YOU-C01,New Year Sale,YouTube,Sales,Young Professionals,19134,385,2390.99,6,6207.72
+2025-08-28,INS-C03,Winter Collection,Instagram,Sales,Young Professionals,55481,2473,11729.74,128,173294.95
+2025-08-29,YOU-C03,Winter Collection,YouTube,Sales,Online Shoppers,57809,1142,7783.7,35,35997.34
+2025-08-30,YOU-C03,Winter Collection,YouTube,Sales,Online Shoppers,94457,1827,11832.76,47,45220.79
+2025-08-30,FAC-C03,Winter Collection,Facebook,Sales,Students,23359,834,3743.07,37,40458.62
+2025-08-30,YOU-C04,Website Traffic,YouTube,Traffic,Online Shoppers,18581,364,2290.07,11,10388.75
+2025-08-31,GOO-C03,Winter Collection,Google Ads,Sales,Young Professionals,85821,5604,28529.57,500,953423.17
+2025-09-03,GOO-C04,Website Traffic,Google Ads,Traffic,Students,19543,1293,6666.65,107,199342.68
+2025-09-04,INS-C02,Brand Awareness,Instagram,Awareness,Families,16267,700,3754.23,40,47305.32
+2025-09-04,FAC-C01,New Year Sale,Facebook,Sales,Young Professionals,59863,2045,11509.12,109,144855.64
+2025-09-04,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Young Professionals,72837,2547,11150.59,145,147000.1
+2025-09-05,INS-C01,New Year Sale,Instagram,Sales,Online Shoppers,22829,981,4784.93,66,103283.13
+2025-09-05,GOO-C04,Website Traffic,Google Ads,Traffic,Online Shoppers,35653,2333,10624.18,208,432257.5
+2025-09-06,YOU-C04,Website Traffic,YouTube,Traffic,Students,73969,1566,8515.93,32,28221.44
+2025-09-06,FAC-C04,Website Traffic,Facebook,Traffic,Online Shoppers,39273,1357,7709.73,68,95462.26
+2025-09-07,GOO-C03,Winter Collection,Google Ads,Sales,Students,12268,771,3475.68,54,107850.77
+2025-09-07,GOO-C02,Brand Awareness,Google Ads,Awareness,Online Shoppers,85059,5440,27719.03,445,843406.56
+2025-09-08,GOO-C02,Brand Awareness,Google Ads,Awareness,Young Professionals,75540,4827,20905.92,398,750403.38
+2025-09-09,GOO-C03,Winter Collection,Google Ads,Sales,Online Shoppers,50339,3268,14061.23,270,562543.66
+2025-09-10,INS-C04,Website Traffic,Instagram,Traffic,Young Professionals,21804,959,5453.16,63,76008.05
+2025-09-13,GOO-C04,Website Traffic,Google Ads,Traffic,Students,16781,1088,5107.21,105,183424.06
+2025-09-14,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Young Professionals,55647,3647,16069.46,305,652197.04
+2025-09-14,FAC-C04,Website Traffic,Facebook,Traffic,Families,96538,3257,18680.02,172,193726.45
+2025-09-14,INS-C02,Brand Awareness,Instagram,Awareness,Young Professionals,36017,1539,6852.75,92,134032.29
+2025-09-16,FAC-C01,New Year Sale,Facebook,Sales,Families,77029,2562,12573.56,143,146197.81
+2025-09-17,YOU-C01,New Year Sale,YouTube,Sales,Young Professionals,72069,1464,8842.4,57,61879.22
+2025-09-17,INS-C02,Brand Awareness,Instagram,Awareness,Families,36039,1602,8680.34,105,168201.51
+2025-09-18,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Students,94826,6319,30610.92,559,817670.85
+2025-09-18,FAC-C03,Winter Collection,Facebook,Sales,Families,13245,468,2435.92,22,27094.55
+2025-09-20,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Families,10350,687,3014.06,57,113584.81
+2025-09-20,YOU-C01,New Year Sale,YouTube,Sales,Online Shoppers,94239,1920,12019.63,49,53218.82
+2025-09-21,FAC-C01,New Year Sale,Facebook,Sales,Students,62296,2168,11153.75,102,136242.72
+2025-09-22,INS-C05,Retargeting Campaign,Instagram,Retargeting,Young Professionals,10481,487,2493.87,33,43951.32
+2025-09-23,YOU-C02,Brand Awareness,YouTube,Awareness,Families,98797,1927,11564.98,49,50114.19
+2025-09-23,YOU-C04,Website Traffic,YouTube,Traffic,Young Professionals,21140,420,2199.59,6,7698.31
+2025-09-23,INS-C02,Brand Awareness,Instagram,Awareness,Students,84928,3797,19727.65,237,352064.58
+2025-09-26,FAC-C01,New Year Sale,Facebook,Sales,Online Shoppers,66850,2275,10785.02,140,180300.89
+2025-09-27,YOU-C03,Winter Collection,YouTube,Sales,Online Shoppers,12120,248,1522.66,7,7550.0
+2025-09-28,GOO-C02,Brand Awareness,Google Ads,Awareness,Families,75731,4895,25142.15,430,739909.78
+2025-09-28,INS-C02,Brand Awareness,Instagram,Awareness,Online Shoppers,17738,802,4476.46,58,69416.62
+2025-09-29,YOU-C02,Brand Awareness,YouTube,Awareness,Online Shoppers,93764,1824,10406.28,36,33556.81
+2025-10-01,FAC-C01,New Year Sale,Facebook,Sales,Online Shoppers,52399,1834,8104.25,83,97078.82
+2025-10-01,INS-C04,Website Traffic,Instagram,Traffic,Students,44771,2023,10676.6,123,168485.5
+2025-10-02,FAC-C04,Website Traffic,Facebook,Traffic,Students,92704,3165,15645.77,170,203200.12
+2025-10-02,INS-C01,New Year Sale,Instagram,Sales,Young Professionals,31063,1370,7827.3,67,111898.4
+2025-10-02,FAC-C03,Winter Collection,Facebook,Sales,Students,21243,741,3471.62,37,40328.68
+2025-10-03,GOO-C04,Website Traffic,Google Ads,Traffic,Online Shoppers,36594,2285,10514.5,199,288126.73
+2025-10-04,FAC-C04,Website Traffic,Facebook,Traffic,Online Shoppers,74214,2635,13118.42,132,161764.66
+2025-10-04,YOU-C04,Website Traffic,YouTube,Traffic,Online Shoppers,95639,1842,11591.53,56,57259.1
+2025-10-06,FAC-C04,Website Traffic,Facebook,Traffic,Online Shoppers,28043,995,4947.46,47,55708.02
+2025-10-07,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Young Professionals,59819,2080,9192.59,118,158367.06
+2025-10-07,FAC-C02,Brand Awareness,Facebook,Awareness,Students,69721,2418,12076.09,115,133908.69
+2025-10-07,YOU-C04,Website Traffic,YouTube,Traffic,Students,37300,705,4915.11,12,13936.53
+2025-10-09,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Young Professionals,31747,1124,6320.25,73,91773.93
+2025-10-11,FAC-C01,New Year Sale,Facebook,Sales,Online Shoppers,17445,620,3115.13,45,48966.67
+2025-10-11,GOO-C02,Brand Awareness,Google Ads,Awareness,Families,28475,1808,7518.14,156,312566.41
+2025-10-12,GOO-C03,Winter Collection,Google Ads,Sales,Families,18394,1255,5376.12,104,152939.25
+2025-10-13,GOO-C01,New Year Sale,Google Ads,Sales,Students,69029,4528,17737.35,366,750713.7
+2025-10-13,YOU-C03,Winter Collection,YouTube,Sales,Families,10639,231,1128.8,4,4680.39
+2025-10-13,YOU-C01,New Year Sale,YouTube,Sales,Families,33120,699,3586.87,22,26763.38
+2025-10-16,GOO-C01,New Year Sale,Google Ads,Sales,Families,78438,5118,23473.6,434,790154.91
+2025-10-16,FAC-C03,Winter Collection,Facebook,Sales,Students,66341,2318,12014.01,104,139769.53
+2025-10-18,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Online Shoppers,56888,3711,15522.14,298,582878.58
+2025-10-19,INS-C05,Retargeting Campaign,Instagram,Retargeting,Young Professionals,80196,3627,16161.93,226,343220.32
+2025-10-20,YOU-C01,New Year Sale,YouTube,Sales,Young Professionals,20939,406,2251.48,13,14772.94
+2025-10-23,YOU-C02,Brand Awareness,YouTube,Awareness,Young Professionals,93058,1867,11748.25,44,47552.95
+2025-10-25,INS-C04,Website Traffic,Instagram,Traffic,Students,34552,1533,6999.4,95,146999.87
+2025-10-26,GOO-C03,Winter Collection,Google Ads,Sales,Families,90526,5872,26690.6,504,782474.99
+2025-10-27,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Families,45735,1029,6191.12,29,26474.21
+2025-10-29,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Young Professionals,87307,5556,22866.28,439,693678.09
+2025-10-29,FAC-C01,New Year Sale,Facebook,Sales,Students,48888,1734,8577.58,89,87217.76
+2025-10-29,GOO-C01,New Year Sale,Google Ads,Sales,Students,48875,3115,13199.32,243,459556.8
+2025-10-30,YOU-C01,New Year Sale,YouTube,Sales,Students,38283,781,5193.41,20,20991.65
+2025-10-30,INS-C05,Retargeting Campaign,Instagram,Retargeting,Families,38820,1799,7338.49,104,139568.45
+2025-11-02,FAC-C01,New Year Sale,Facebook,Sales,Families,10662,377,1697.23,16,20493.33
+2025-11-02,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Families,29472,1047,5060.63,59,57179.05
+2025-11-02,INS-C04,Website Traffic,Instagram,Traffic,Young Professionals,93762,4325,23571.63,260,323043.34
+2025-11-03,YOU-C01,New Year Sale,YouTube,Sales,Families,13157,274,1719.76,10,12626.61
+2025-11-03,GOO-C02,Brand Awareness,Google Ads,Awareness,Students,76711,5064,20464.01,414,836693.93
+2025-11-04,INS-C04,Website Traffic,Instagram,Traffic,Young Professionals,96453,4350,19408.53,249,382791.22
+2025-11-06,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Online Shoppers,50961,1817,8855.15,99,97916.31
+2025-11-06,INS-C05,Retargeting Campaign,Instagram,Retargeting,Young Professionals,98122,4498,24595.09,272,344943.51
+2025-11-08,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Families,14585,958,4373.66,75,109829.4
+2025-11-09,YOU-C01,New Year Sale,YouTube,Sales,Online Shoppers,58510,1126,7751.26,41,46537.15
+2025-11-10,GOO-C03,Winter Collection,Google Ads,Sales,Online Shoppers,44934,2912,13569.09,245,513288.29
+2025-11-10,GOO-C02,Brand Awareness,Google Ads,Awareness,Online Shoppers,34257,2392,9187.96,207,348200.04
+2025-11-10,GOO-C04,Website Traffic,Google Ads,Traffic,Students,15228,987,4619.81,90,168881.53
+2025-11-11,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Young Professionals,71048,4685,18381.03,416,628977.58
+2025-11-13,INS-C03,Winter Collection,Instagram,Sales,Students,87694,3946,21766.99,224,325817.17
+2025-11-14,GOO-C04,Website Traffic,Google Ads,Traffic,Families,27149,1750,8099.19,144,266620.36
+2025-11-14,YOU-C04,Website Traffic,YouTube,Traffic,Online Shoppers,21929,385,2491.02,8,10201.84
+2025-11-18,FAC-C02,Brand Awareness,Facebook,Awareness,Students,49033,1698,7824.63,86,103461.3
+2025-11-22,INS-C01,New Year Sale,Instagram,Sales,Students,44212,2022,8814.01,124,207528.65
+2025-11-22,YOU-C03,Winter Collection,YouTube,Sales,Online Shoppers,12301,259,1321.86,7,6823.96
+2025-11-22,GOO-C03,Winter Collection,Google Ads,Sales,Young Professionals,15456,1020,4305.59,94,177792.13
+2025-11-26,YOU-C01,New Year Sale,YouTube,Sales,Young Professionals,62873,1196,7941.64,29,36252.69
+2025-11-26,YOU-C03,Winter Collection,YouTube,Sales,Online Shoppers,64405,1276,6796.72,28,34856.0
+2025-11-28,FAC-C03,Winter Collection,Facebook,Sales,Students,67277,2417,12652.02,138,194784.97
+2025-11-30,FAC-C02,Brand Awareness,Facebook,Awareness,Students,96323,3310,16351.61,168,172881.83
+2025-12-01,INS-C02,Brand Awareness,Instagram,Awareness,Young Professionals,59009,2658,14589.17,166,271803.37
+2025-12-01,FAC-C02,Brand Awareness,Facebook,Awareness,Young Professionals,31190,1023,5673.88,46,62896.22
+2025-12-02,FAC-C02,Brand Awareness,Facebook,Awareness,Online Shoppers,97029,3425,15577.76,167,198626.64
+2025-12-03,INS-C05,Retargeting Campaign,Instagram,Retargeting,Online Shoppers,47473,2072,11215.04,116,187455.41
+2025-12-03,INS-C02,Brand Awareness,Instagram,Awareness,Young Professionals,25093,1107,4884.01,59,78967.67
+2025-12-05,INS-C04,Website Traffic,Instagram,Traffic,Online Shoppers,42191,1943,8244.13,119,169947.97
+2025-12-06,FAC-C04,Website Traffic,Facebook,Traffic,Families,99605,3557,18668.94,183,232701.25
+2025-12-07,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Young Professionals,25563,1673,7999.6,151,320724.19
+2025-12-09,YOU-C04,Website Traffic,YouTube,Traffic,Young Professionals,16460,342,1790.78,6,7295.41
+2025-12-10,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Young Professionals,22438,828,3567.06,49,61625.91
+2025-12-11,YOU-C01,New Year Sale,YouTube,Sales,Families,55780,1143,7535.21,31,28651.12
+2025-12-11,INS-C04,Website Traffic,Instagram,Traffic,Young Professionals,56418,2566,11276.73,158,227267.05
+2025-12-15,YOU-C04,Website Traffic,YouTube,Traffic,Students,53516,1103,5651.16,28,26663.6
+2025-12-15,FAC-C01,New Year Sale,Facebook,Sales,Online Shoppers,84904,2924,13631.05,155,163673.17
+2025-12-16,YOU-C03,Winter Collection,YouTube,Sales,Online Shoppers,23488,461,2716.85,13,16726.88
+2025-12-18,FAC-C01,New Year Sale,Facebook,Sales,Families,80088,2859,16157.0,165,194497.48
+2025-12-18,GOO-C04,Website Traffic,Google Ads,Traffic,Online Shoppers,38132,2453,9960.94,208,325026.99
+2025-12-19,YOU-C05,Retargeting Campaign,YouTube,Retargeting,Students,11084,231,1495.83,1,1080.17
+2025-12-19,GOO-C03,Winter Collection,Google Ads,Sales,Young Professionals,83431,5359,22166.03,443,936801.92
+2025-12-19,INS-C04,Website Traffic,Instagram,Traffic,Families,30578,1438,5934.66,111,155253.78
+2025-12-20,FAC-C02,Brand Awareness,Facebook,Awareness,Young Professionals,24861,867,4313.16,52,67036.15
+2025-12-21,INS-C02,Brand Awareness,Instagram,Awareness,Online Shoppers,77524,3519,18342.05,215,255116.81
+2025-12-21,GOO-C05,Retargeting Campaign,Google Ads,Retargeting,Families,35670,2407,9195.35,203,382598.57
+2025-12-21,FAC-C04,Website Traffic,Facebook,Traffic,Families,64955,2221,10986.68,117,145472.39
+2025-12-21,YOU-C02,Brand Awareness,YouTube,Awareness,Young Professionals,43882,883,4982.81,26,31551.93
+2025-12-22,GOO-C01,New Year Sale,Google Ads,Sales,Students,23985,1589,7849.04,149,310366.67
+2025-12-24,INS-C03,Winter Collection,Instagram,Sales,Students,72948,3285,17745.13,219,337783.86
+2025-12-24,YOU-C02,Brand Awareness,YouTube,Awareness,Online Shoppers,81852,1551,8784.86,34,43584.18
+2025-12-25,INS-C01,New Year Sale,Instagram,Sales,Families,75976,3382,18523.07,190,239046.79
+2025-12-26,GOO-C01,New Year Sale,Google Ads,Sales,Students,30197,1936,8893.8,157,298878.82
+2025-12-26,INS-C05,Retargeting Campaign,Instagram,Retargeting,Online Shoppers,20958,927,4248.82,61,85498.21
+2025-12-26,INS-C04,Website Traffic,Instagram,Traffic,Families,30517,1435,5828.19,67,105889.45
+2025-12-28,YOU-C01,New Year Sale,YouTube,Sales,Students,37064,705,4451.92,14,18423.77
+2025-12-28,FAC-C05,Retargeting Campaign,Facebook,Retargeting,Young Professionals,55656,1859,11212.14,88,121667.26
+2025-12-28,GOO-C04,Website Traffic,Google Ads,Traffic,Online Shoppers,86567,5621,29088.68,460,902752.16
+2025-12-30,INS-C02,Brand Awareness,Instagram,Awareness,Families,14627,688,3045.66,50,76966.98
+2025-12-31,FAC-C02,Brand Awareness,Facebook,Awareness,Online Shoppers,57090,1927,10553.89,132,132742.32
